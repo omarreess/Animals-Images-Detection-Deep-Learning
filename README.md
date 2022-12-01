@@ -1,4 +1,4 @@
-# Animals Images Detection Deep Learning
+# Animals Images Detection - Deep Learning
 Animals Images Detection Computer Vision Project with Deep Learning Algorithms (CNN)
 
 # Objectives 
