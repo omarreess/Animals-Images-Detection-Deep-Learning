@@ -3,6 +3,7 @@ Animals Images Detection Computer Vision Project with Deep Learning Algorithms (
 
 # Objectives 
  * ETL Process  
+ * Data Augmentation
  * CNN Architecture Model for Detection
  * Debuging & Visualizing Model Outputs
  * Transfer Learning with VGG16 Model for Improving Accuracy
